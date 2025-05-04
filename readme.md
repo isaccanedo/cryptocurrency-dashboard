@@ -33,7 +33,7 @@ Cryptocurrency Dashboard lets you monitor the top 100 currencies based on market
 1. Git Clone the repo
 
 ```
-git clone https://github.com/christ0ph3r/cryptocurrency-dashboard/
+git clone https://github.com/isaccanedo/cryptocurrency-dashboard/
 ```
 
 2. Copy the config-sample.php file and name it config.php
@@ -51,12 +51,3 @@ $consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 $access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 $access_token_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 ```
-
-## Like my work? Donate some coin!
-
-
-| Coin     | Address                                    |
-| -------- |:------------------------------------------:|
-| Bitcoin  | 1LFTccjYHbiVekdm8XYC1ucNqdGsAC3frc         |
-| Ethereum | 0x071Fe2Bb50430A3f6af398A410a78B67e1A783AE |
-| Litecoin | Lh9eV96yhTyrkv2VkWG7RZvas9TzFuYZbR         |
