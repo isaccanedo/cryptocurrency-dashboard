@@ -1,4 +1,4 @@
-## Cryptocurrency Dashboard
+# Cryptocurrency Dashboard
 
 Cryptocurrency Dashboard lets you monitor the top 100 currencies based on market cap size.  It uses the coinmarketcap.com API to fetch crypto data.  It uses the Twitter API to monitor the latest and most popular tweets about a Cryptocurrency.
 
